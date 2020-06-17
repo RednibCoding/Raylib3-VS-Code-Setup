@@ -4,6 +4,9 @@ This project sets everything up needed for raylib *(https://www.raylib.com/)* so
 # Note
 The configuration assumes that you have installed Raylib3 in the default path: *C:/raylib*.
 
+Make sure you have the *C/C++ Extension* for Visual Studio Code installed *(https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)*.
+You can install it via the extension tab in Visual Studio Code.
+
 Configuration is for Windows.
 
 # Installation
