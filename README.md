@@ -1,4 +1,4 @@
-# Raylib - Visual Studio Code Setup for C
+# Raylib - Visual Studio Code Setup for GCC
 This project sets everything up needed for raylib *(https://www.raylib.com/)* so you can code with Visual Studio Code *(https://code.visualstudio.com/)* instead of Notepad++.
 
 # Note
@@ -8,6 +8,10 @@ Make sure you have the *C/C++ Extension* for Visual Studio Code installed *(http
 You can install the extension via the *Extension Tab* in Visual Studio Code.
 
 Configuration is for Windows.
+
+When you want to hide the console, add the following compiler/linker configuration parameter:
+
+*-mwindows*
 
 # Installation
 Just download or clone this repository and open the downloaded folder with Visual Studio Code *(right click-> Open with Code)*.
