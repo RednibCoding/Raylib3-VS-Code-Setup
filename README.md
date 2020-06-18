@@ -1,4 +1,4 @@
-# Visual Studio Code Setup for Raylib and GCC
+# Visual Studio Code Setup for Raylib and MinGW/GCC
 This project sets everything up needed for raylib *(https://www.raylib.com/)* so you can code with Visual Studio Code *(https://code.visualstudio.com/)* instead of Notepad++.
 
 # Note
